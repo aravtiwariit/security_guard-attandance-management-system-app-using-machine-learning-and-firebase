@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "/Users/aravtiwari/Documents/arav_code/flutter1/lakshya/linux",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

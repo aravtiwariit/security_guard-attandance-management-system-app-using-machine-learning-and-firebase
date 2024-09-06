@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525692480911",
+    "project_id": "lakshya-e0ed8",
+    "storage_bucket": "lakshya-e0ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525692480911:android:4a7fcf4669627b8e03effa",
+        "android_client_info": {
+          "package_name": "com.example.lakshya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0iz7XkAQPjnq39yT7mKP1xYGM66TM2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
